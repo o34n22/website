@@ -2,5 +2,5 @@
 
 This is a sample website made as part of 
 
-[*Learn Enough Git to Be Dangerous*]
+[*Learn Enough Git to Be Dangerous*](http://learnenough.com/git-tutorial), a decent beginner Git tutorial.
 
